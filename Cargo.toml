@@ -1,0 +1,7 @@
+[package]
+name = "rusty-sword"
+version = "0.1.0"
+authors = ["Ethan Wright <ethan@flareline.com>"]
+edition = "2018"
+
+[dependencies]
